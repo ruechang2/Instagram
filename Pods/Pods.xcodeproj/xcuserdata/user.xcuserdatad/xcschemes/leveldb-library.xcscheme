@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E677D355B9FDA8F932D36DB875CF7A42"
-               BuildableName = "Pods_Instagram.framework"
-               BlueprintName = "Pods-Instagram"
+               BlueprintIdentifier = "FC8C08CE583381CB6B594CD8089DE396"
+               BuildableName = "leveldb.framework"
+               BlueprintName = "leveldb-library"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E677D355B9FDA8F932D36DB875CF7A42"
-            BuildableName = "Pods_Instagram.framework"
-            BlueprintName = "Pods-Instagram"
+            BlueprintIdentifier = "FC8C08CE583381CB6B594CD8089DE396"
+            BuildableName = "leveldb.framework"
+            BlueprintName = "leveldb-library"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

@@ -1,5 +1,5 @@
 //
-//  FifthViewController.swift
+//  ThirdViewController.swift
 //  Instagram
 //
 //  Created by USER on 2019/04/06.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FifthViewController: UIViewController {
+class HomeViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

@@ -1,5 +1,5 @@
 //
-//  ThirdViewController.swift
+//  SixthViewController.swift
 //  Instagram
 //
 //  Created by USER on 2019/04/06.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ThirdViewController: UIViewController {
+class SettingViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

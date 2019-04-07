@@ -8,11 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		BA119C1DC0440AF39F500731 /* Pods_Instagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B1D12C65E2C3A486DFE496C /* Pods_Instagram.framework */; };
-		CE22FDBC2258370800FFE6CB /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE22FDBB2258370800FFE6CB /* SecondViewController.swift */; };
-		CE22FDBE2258374400FFE6CB /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE22FDBD2258374400FFE6CB /* ThirdViewController.swift */; };
-		CE22FDC02258377F00FFE6CB /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE22FDBF2258377F00FFE6CB /* FourthViewController.swift */; };
-		CE22FDC2225837AD00FFE6CB /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE22FDC1225837AD00FFE6CB /* FifthViewController.swift */; };
-		CE22FDC4225837D300FFE6CB /* SixthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE22FDC3225837D300FFE6CB /* SixthViewController.swift */; };
+		CE22FDBC2258370800FFE6CB /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE22FDBB2258370800FFE6CB /* LoginViewController.swift */; };
+		CE22FDBE2258374400FFE6CB /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE22FDBD2258374400FFE6CB /* HomeViewController.swift */; };
+		CE22FDC02258377F00FFE6CB /* ImageSelectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE22FDBF2258377F00FFE6CB /* ImageSelectViewController.swift */; };
+		CE22FDC2225837AD00FFE6CB /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE22FDC1225837AD00FFE6CB /* PostViewController.swift */; };
+		CE22FDC4225837D300FFE6CB /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE22FDC3225837D300FFE6CB /* SettingViewController.swift */; };
+		CE22FDC822598F3100FFE6CB /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CE22FDC722598F2600FFE6CB /* GoogleService-Info.plist */; };
 		CEF1839D22538C0A00639067 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF1839C22538C0A00639067 /* AppDelegate.swift */; };
 		CEF1839F22538C0A00639067 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF1839E22538C0A00639067 /* ViewController.swift */; };
 		CEF183A222538C0A00639067 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEF183A022538C0A00639067 /* Main.storyboard */; };
@@ -42,11 +43,12 @@
 /* Begin PBXFileReference section */
 		0B1D12C65E2C3A486DFE496C /* Pods_Instagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Instagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		18CC23A50817804E25086F01 /* Pods-Instagram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instagram.debug.xcconfig"; path = "Target Support Files/Pods-Instagram/Pods-Instagram.debug.xcconfig"; sourceTree = "<group>"; };
-		CE22FDBB2258370800FFE6CB /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
-		CE22FDBD2258374400FFE6CB /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
-		CE22FDBF2258377F00FFE6CB /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
-		CE22FDC1225837AD00FFE6CB /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
-		CE22FDC3225837D300FFE6CB /* SixthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixthViewController.swift; sourceTree = "<group>"; };
+		CE22FDBB2258370800FFE6CB /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		CE22FDBD2258374400FFE6CB /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		CE22FDBF2258377F00FFE6CB /* ImageSelectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSelectViewController.swift; sourceTree = "<group>"; };
+		CE22FDC1225837AD00FFE6CB /* PostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
+		CE22FDC3225837D300FFE6CB /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		CE22FDC722598F2600FFE6CB /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		CEF1839922538C0A00639067 /* Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEF1839C22538C0A00639067 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEF1839E22538C0A00639067 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -137,11 +139,12 @@
 				CEF183A322538C1800639067 /* Assets.xcassets */,
 				CEF183A522538C1800639067 /* LaunchScreen.storyboard */,
 				CEF183A822538C1800639067 /* Info.plist */,
-				CE22FDBB2258370800FFE6CB /* SecondViewController.swift */,
-				CE22FDBD2258374400FFE6CB /* ThirdViewController.swift */,
-				CE22FDBF2258377F00FFE6CB /* FourthViewController.swift */,
-				CE22FDC1225837AD00FFE6CB /* FifthViewController.swift */,
-				CE22FDC3225837D300FFE6CB /* SixthViewController.swift */,
+				CE22FDBB2258370800FFE6CB /* LoginViewController.swift */,
+				CE22FDBD2258374400FFE6CB /* HomeViewController.swift */,
+				CE22FDC722598F2600FFE6CB /* GoogleService-Info.plist */,
+				CE22FDBF2258377F00FFE6CB /* ImageSelectViewController.swift */,
+				CE22FDC1225837AD00FFE6CB /* PostViewController.swift */,
+				CE22FDC3225837D300FFE6CB /* SettingViewController.swift */,
 			);
 			path = Instagram;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEF183A722538C1800639067 /* LaunchScreen.storyboard in Resources */,
+				CE22FDC822598F3100FFE6CB /* GoogleService-Info.plist in Resources */,
 				CEF183A422538C1800639067 /* Assets.xcassets in Resources */,
 				CEF183A222538C0A00639067 /* Main.storyboard in Resources */,
 			);
@@ -303,12 +307,20 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-Instagram/Pods-Instagram-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/ESTabBarController/ESTabBarController.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ESTabBarController.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -344,13 +356,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CE22FDC2225837AD00FFE6CB /* FifthViewController.swift in Sources */,
-				CE22FDC4225837D300FFE6CB /* SixthViewController.swift in Sources */,
-				CE22FDBC2258370800FFE6CB /* SecondViewController.swift in Sources */,
+				CE22FDC2225837AD00FFE6CB /* PostViewController.swift in Sources */,
+				CE22FDC4225837D300FFE6CB /* SettingViewController.swift in Sources */,
+				CE22FDBC2258370800FFE6CB /* LoginViewController.swift in Sources */,
 				CEF1839F22538C0A00639067 /* ViewController.swift in Sources */,
-				CE22FDBE2258374400FFE6CB /* ThirdViewController.swift in Sources */,
+				CE22FDBE2258374400FFE6CB /* HomeViewController.swift in Sources */,
 				CEF1839D22538C0A00639067 /* AppDelegate.swift in Sources */,
-				CE22FDC02258377F00FFE6CB /* FourthViewController.swift in Sources */,
+				CE22FDC02258377F00FFE6CB /* ImageSelectViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

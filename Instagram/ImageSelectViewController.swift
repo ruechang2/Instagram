@@ -1,5 +1,5 @@
 //
-//  SixthViewController.swift
+//  FourthViewController.swift
 //  Instagram
 //
 //  Created by USER on 2019/04/06.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SixthViewController: UIViewController {
+class ImageSelectViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

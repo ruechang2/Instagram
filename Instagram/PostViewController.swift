@@ -1,5 +1,5 @@
 //
-//  FourthViewController.swift
+//  FifthViewController.swift
 //  Instagram
 //
 //  Created by USER on 2019/04/06.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FourthViewController: UIViewController {
+class PostViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
